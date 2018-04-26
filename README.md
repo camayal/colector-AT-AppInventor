@@ -3,7 +3,7 @@
 UPDATE NOTE:<br>
 A new version is updated and totally rewrote to Javascript. Please check the web http://camayal.info/colector.htm to details. <br>
 If you are interested in the source code, just email me.
-<br>
+<br><br><br>
 Need to put all content into an *.aia file to import in AppInventor 2 by MIT
 <br>
 APK also available on:  http://camayal.info/colector.htm
